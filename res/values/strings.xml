@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">Question</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_question">Question</string>
+    <string name="play">PLAY</string>
+    <string name="scores">SCORES</string>
+    <string name="credits">CREDITS</string>
+    <string name="title_activity_play">Play</string>
+    <string name="title_activity_scores">Scores</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="txt_phone">Phone</string>
+    <string name="txt_off50">50%</string>
+    <string name="txt_audience">Audience</string>
+    <string name="add_button">Add</string>
+    <string name="friend_hint">Add Friend</string>
+    <string name="username_hint">Your username</string>
+    <string name="title_activity_credits">Credits</string>
+    <string name="spinner_text">Select how many times\n you can ask for help:</string>
+    <string name="local_delete">Delete</string>
+    <string name="Pfor">Play for: </string>
+    <string name="NQuestion">Question: </string>
+    <string name="head_play">Play</string>
+    <string name="head_settings">Settings</string>
+    <string name="tittle">How much do you know?</string>
+    <string name="eliu">Eliú Crespo Sanchis \n (elcresan@fiv.upv.es)</string>
+    <string name="nicolas">Nicolás De Boni Rap \n (nidebo@fiv.upv.es)</string>
+    <string name="dadbm">(c)DADBM 2012</string>
+    <string name="authors">Authors:</string>
+	<string name="local">Local</string>
+    <string name="friends">Friends</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_friends">Friends</string>
+    <string name="oops">Oops!</string>
+    <string name="scores_error">Unable to establish connection.\nFriends scores unavailable.</string>
+    <string name="friend_error">Unable to establish connection.\nYour friend hasn\'t been added.</string>
+    <string name="new_friend_title">New Friend!</string>
+    <string name="new_friend">is now your friend.</string>
+    <string name="empty_friend_error">Input a name for your friend!</string>
+    <string name="upload_error">Couldn\'t upload score.</string>
+    
+    
+    <string name="cont">Continue</string>
+    <string name="leave">Leave</string>
+    <string name="corr">Correct</string>
+    <string name="youright">Your answer is right!</string>
+    <string name="incor">Incorrect</string>
+    <string name="yournot"> Your answer is not right!</string>
+    <string name="grats">Congratulations</string>
+    <string name="win">You win!</string>
+    <string name="head_scores">Scores</string>
+    <string name="head_credits">Credits</string>
+</resources>

@@ -1,0 +1,51 @@
+<resources>
+
+    <string name="app_name">Question</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="title_activity_question">Question</string>
+    <string name="play">JUGAR</string>
+    <string name="scores">PUNTUACIONES</string>
+    <string name="credits">CREDITOS</string>
+    <string name="title_activity_play">Jugar</string>
+    <string name="title_activity_scores">Puntuaciones</string>
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="txt_phone">Teléfono</string>
+    <string name="txt_off50">50%</string>
+    <string name="txt_audience">Público</string>
+    <string name="add_button">Añadir</string>
+    <string name="friend_hint">Añadir Amigo</string>
+    <string name="username_hint">Tu nombre</string>
+    <string name="title_activity_credits">Creditos</string>
+    <string name="spinner_text">Elige cuántas veces puedes\n pedir ayuda:</string>
+    <string name="local_delete">Borrar</string>
+    <string name="Pfor">Jugar por: </string>
+    <string name="NQuestion">Pregunta: </string>
+    <string name="head_play">Jugar</string>
+    <string name="head_settings">Ajustes</string>
+    <string name="tittle">How much do you know?</string>
+    <string name="eliu">Eliú Crespo Sanchis \n (elcresan@fiv.upv.es)</string>
+    <string name="nicolas">Nicolás De Boni Rap \n (nidebo@fiv.upv.es)</string>
+    <string name="dadbm">(c)DADBM 2012</string>
+    <string name="authors">Autores:</string>
+ 	<string name="title_activity_local">Local</string>
+    <string name="local">Local</string>
+    <string name="friends">Amigos</string>
+    <string name="oops">Oops!</string>
+    <string name="scores_error">Hay un problema con la conexión.\nPuntuación de amigos no disponible.</string>
+	<string name="friend_error">Hay un problema con la conexión.\nTu amigo no ha sido añadido.</string>
+	<string name="new_friend_title">Nuevo Amigo!</string>
+	<string name="new_friend">es ahora tu amigo.</string>
+	<string name="empty_friend_error">Pon un nombre para tu amigo!</string>
+	<string name="upload_error">No se ha subido la puntuación.</string>
+	
+	<string name="cont">Continuar</string>
+	<string name="leave">Plantarse</string>
+    <string name="corr">Correcto</string>
+    <string name="youright">¡Respuesta correcta!</string>
+    <string name="incor">Incorrecto</string>
+    <string name="yournot">¡Respuesta incorrecta!</string>
+    <string name="grats">Felicidades</string>
+    <string name="win">¡Has ganado!</string>
+	
+
+</resources>

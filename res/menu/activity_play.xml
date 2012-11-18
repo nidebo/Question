@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/m_phone"
+          android:icon="@drawable/ic_phone" 
+          android:title="@string/txt_phone"    />
+    <item android:id="@+id/m_off50"
+          android:icon="@drawable/ic_off50"
+          android:title="@string/txt_off50"    />
+    <item android:id="@+id/m_audience"
+          android:icon="@drawable/ic_audience"
+          android:title="@string/txt_audience" />
+</menu>
